@@ -24,7 +24,7 @@
     "mocha": "^8.2.1",
     "nyc": "^15.1.0",
     "sinon": "^9.2.3",
-    "supertest": "^6.0.1"
+    "supertest": "^7.0.0"
   },
   "engines": {
     "node": ">=10.23.1",
